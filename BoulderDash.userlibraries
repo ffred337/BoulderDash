@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mysql-connector-java-8.0.11">
+    <archive path="C:/IntellIJ_Projects/Game2D/BoulderDash/assets/mysql-connector-java-8.0.11/mysql-connector-java-8.0.11.jar" />
+  </library>
+</eclipse-userlibraries>
+
